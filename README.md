@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mohamedgobaraa/KemetPass-website/main/backend/assets/logo.png" alt="KemetPass Logo" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Amin4ElSebaei/KemetPass-website/main/backend/assets/logo.png" alt="KemetPass Logo" width="300" height="300">
 
 <!-- Animated badges -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Discover+Ancient+Egypt;Experience+AR+Tourism;Learn+Hieroglyphics;Explore+Historical+Sites;Flutter+Mobile+App)](https://git.io/typing-svg)
@@ -12,9 +12,9 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-3.1+-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 
-![GitHub stars](https://img.shields.io/github/stars/mohamedgobaraa/KemetPass-mobile-app?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mohamedgobaraa/KemetPass-mobile-app?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/mohamedgobaraa/KemetPass-mobile-app?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Amin4ElSebaei/KemetPass-mobile-app?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Amin4ElSebaei/KemetPass-mobile-app?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Amin4ElSebaei/KemetPass-mobile-app?style=social)
 
 </div>
 
@@ -84,7 +84,7 @@ KemetPass is a revolutionary **Flutter mobile application** that brings ancient 
 
 ```bash
 # Clone the repository
-git clone https://github.com/mohamedgobaraa/KemetPass-mobile-app.git
+git clone https://github.com/Amin4ElSebaei/KemetPass-mobile-app.git
 cd kemetpass
 
 # Get Flutter dependencies
@@ -296,12 +296,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### 📞 Contact & Support
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.mohamed.gobara@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedgobaraa/KemetPass-mobile-app)
-[![Documentation](https://img.shields.io/badge/Docs-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/mohamedgobaraa/KemetPass-mobile-app#readme)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amin4ElSebaei/KemetPass-mobile-app)
+[![Documentation](https://img.shields.io/badge/Docs-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/Amin4ElSebaei/KemetPass-mobile-app#readme)
 
 **Made with ❤️ for Egyptian Cultural Heritage**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mohamedgobaraa.KemetPass-mobile-app)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Amin4ElSebaei.KemetPass-mobile-app)
 
 </div>
 
