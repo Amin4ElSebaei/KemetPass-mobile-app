@@ -291,13 +291,16 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
+## Contact
+
+**Amen Elsebaei** — B.Sc. Artificial Intelligence,
+Delta University for Science and Technology
+
+- Email: eng.amin.elsebaei@gmail.com
+- LinkedIn: https://www.linkedin.com/in/amin-el-sebaei
+- GitHub: https://github.com/Amin4ElSebaei
+
 <div align="center">
-
-### 📞 Contact & Support
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.mohamed.gobara@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amin4ElSebaei/KemetPass-mobile-app)
-[![Documentation](https://img.shields.io/badge/Docs-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/Amin4ElSebaei/KemetPass-mobile-app#readme)
 
 **Made with ❤️ for Egyptian Cultural Heritage**
 
